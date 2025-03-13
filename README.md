@@ -14,4 +14,5 @@ PERT CONNECTOR FOR CHART UNDERSTANDING](https://arxiv.org/pdf/2409.03277)
 4.[ChartAssisstant: A Universal Chart Multimodal Language Model via
 Chart-to-Table Pre-training and Multitask Instruction Tuning](https://arxiv.org/pdf/2401.02384)
 
-
+5.[---->Under-Review-Paper<---- READ-SQL: REASONING PATH DECOMPOSER FOR
+TEXT-TO-SQL](https://openreview.net/pdf?id=dHAPEcxyLv)
