@@ -16,3 +16,8 @@ Chart-to-Table Pre-training and Multitask Instruction Tuning](https://arxiv.org/
 
 5.[---->Under-Review-Paper<---- READ-SQL: REASONING PATH DECOMPOSER FOR
 TEXT-TO-SQL](https://openreview.net/pdf?id=dHAPEcxyLv)
+
+6.[SPOT: Knowledge-Enhanced Language Representations for
+Information Extraction](https://arxiv.org/pdf/2208.09625)
+
+7.
