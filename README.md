@@ -194,6 +194,85 @@ in supply-driven design of multidimensional cubes](https://arxiv.org/pdf/2502.02
 73.[CoddLLM: Empowering Large Language Models for Data
 Analytics](https://arxiv.org/pdf/2502.00329v1)
 
-74.[]()
+74.[LLM-Powered Knowledge Graphs for Enterprise
+Intelligence and Analytics](https://arxiv.org/pdf/2503.07993v1)
+
+75.[Multi-Agent Actor-Critic Generative AI for Query
+Resolution and Analysis](https://arxiv.org/pdf/2502.13164v1)
+
+76.[BIS: NL2SQL Service Evaluation
+Benchmark for Business Intelligence Scenarios](https://arxiv.org/pdf/2410.22925v1)
+
+77.[BI-REC: Guided Data Analysis for
+Conversational Business Intelligence](https://arxiv.org/pdf/2105.00467)
+
+78.[Automating Business Intelligence Requirements
+with Generative AI and Semantic Search](https://arxiv.org/pdf/2412.07668)
+
+79.[BIBench: Benchmarking Data Analysis Knowledge of Large Language
+Models](https://arxiv.org/pdf/2401.02982v3)
+
+80.[Conversational AI Threads for Visualizing Multidimensional Datasets](https://arxiv.org/pdf/2311.05590)
+
+81.[InsightBench: Evaluating Business Analytics
+Agents Through Multi-Step Insight Generation](https://arxiv.org/pdf/2407.06423v1)
+
+82.[Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261)
+
+83.[Relational Deep Learning: Graph Representation
+Learning on Relational Databases](https://arxiv.org/pdf/2312.04615)
+
+84.[Neuro-Symbolic Query Compiler](https://arxiv.org/pdf/2505.11932)
+
+85.[Fantastic Semantics and Where to Find Them: Investigating Which Layers
+of Generative LLMs Reflect Lexical Semantics](https://arxiv.org/pdf/2403.01509)
+
+86.[Towards Agentic Schema Refinement](https://arxiv.org/pdf/2412.07786?)
+
+87.[Delphi Labs - data.world Semantic Layer LLM Benchmark](https://github.com/Delphi-Data/delphi-semantic-layer-llm-benchmark?tab=readme-ov-file)
+
+88.[HyperBERT: Mixing Hypergraph-Aware Layers with Language Models for
+Node Classification on Text-Attributed Hypergraphs](https://scholar9.com/publication/b5a1726dcdb25503ea770393682ffd95.pdf)
+
+89.[Discourse-Aware Text Simplification:
+From Complex Sentences to Linked Propositions](https://arxiv.org/pdf/2308.00425)
+
+90.[Multi-LogiEval: Towards Evaluating Multi-Step Logical Reasoning Ability
+of Large Language Models](https://aclanthology.org/2024.emnlp-main.1160.pdf)
+
+91.[Q*: Improving Multi-step Reasoning for LLMs with
+Deliberative Planning](https://arxiv.org/pdf/2406.14283v4)
+
+92.[Traversing Knowledge Graphs in Vector Space](https://arxiv.org/pdf/1506.01094)
+
+93.[Graph Neural Prompting with Large Language Models](https://arxiv.org/pdf/2309.15427)
+
+94.[Comprehensive Reviews into Function Calling in Large Language Models](https://github.com/Applied-Machine-Learning-Lab/Awesome-Function-Callings?tab=readme-ov-file)
+
+95.[QuestBench: Can LLMs ask the right question
+to acquire information in reasoning tasks?](https://arxiv.org/pdf/2503.22674)
+
+96.[Encrypted Prompt: Securing LLM Applications
+Against Unauthorized Actions](https://arxiv.org/pdf/2503.23250v1)
+
+97.[FRESHLLMS:
+REFRESHING LARGE LANGUAGE MODELS
+WITH SEARCH ENGINE AUGMENTATION](https://arxiv.org/pdf/2310.03214)
+
+98.[Relying on the Unreliable: The Impact of Language Models’ Reluctance to
+Express Uncertainty](https://arxiv.org/pdf/2401.06730)
+
+99.[Decomposition for Enhancing Attention: Improving LLM-based
+Text-to-SQL through Workflow Paradigm](https://arxiv.org/pdf/2402.10671v3)
+
+100.[Comparing Discrete and Continuous Space LLMs for Speech Recognition](https://arxiv.org/pdf/2409.00800v1)
+
+101.[Evaluating and Enhancing LLMs for Multi-turn
+Text-to-SQL with Multiple Question Types](https://arxiv.org/pdf/2412.17867v1)
+
+102.[Odin: A NL2SQL Recommender to Handle Schema Ambiguity](https://arxiv.org/pdf/2505.19302v1)
+
+103.[Large Language Models Should Ask Clarifying Questions to
+Increase Confidence in Generated Code∗](https://arxiv.org/pdf/2308.13507)
 
 
